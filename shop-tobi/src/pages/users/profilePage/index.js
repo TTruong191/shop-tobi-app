@@ -1,13 +1,13 @@
 import { memo } from "react";
-const HomPage = () => {
+const ProfilePage = () => {
     return (
         <>
         
-        <h1>Body</h1>
+        <h1>Profile</h1>
         
         </>
         
     )
 }
 
-export default memo(HomPage);
+export default memo(ProfilePage);
